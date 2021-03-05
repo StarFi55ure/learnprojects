@@ -13,10 +13,6 @@ import java.awt.Color
 import java.awt.Graphics
 import java.awt.image.BufferedImage
 
-<<<<<<< HEAD
-
-=======
->>>>>>> a0ab4e45f88528bfbe03eeb260783957ebf8bf7e
 class Main {
     static void main(String[] args) {
         println "Learning Perlin Noise Project";
