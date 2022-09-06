@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.flowpowered:flow-noise:1.0.0'
-    compile 'com.github.javadev:underscore:1.15'
-    compile 'org.codehaus.groovy:groovy-all:2.4.6:indy'
+    implementation 'com.flowpowered:flow-noise:1.0.0'
+    implementation 'com.github.javadev:underscore:1.15'
+    implementation 'org.codehaus.groovy:groovy-all:2.4.6:indy'
 }
