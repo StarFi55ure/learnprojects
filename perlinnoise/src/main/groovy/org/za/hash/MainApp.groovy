@@ -1,12 +1,12 @@
 package org.za.hash
 
-
 import com.flowpowered.noise.module.combiner.Select
 import com.flowpowered.noise.module.modifier.ScaleBias
 import com.flowpowered.noise.module.modifier.Turbulence
 import com.flowpowered.noise.module.source.Billow
 import com.flowpowered.noise.module.source.Perlin
 import com.flowpowered.noise.module.source.RidgedMulti
+import com.flowpowered.noise.module.Module
 import groovy.swing.SwingBuilder
 import javax.swing.*
 import java.awt.Color
