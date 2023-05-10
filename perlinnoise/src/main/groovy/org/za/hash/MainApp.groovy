@@ -1,6 +1,6 @@
-package pn
+package org.za.hash
 
-import com.flowpowered.noise.module.Module
+
 import com.flowpowered.noise.module.combiner.Select
 import com.flowpowered.noise.module.modifier.ScaleBias
 import com.flowpowered.noise.module.modifier.Turbulence
